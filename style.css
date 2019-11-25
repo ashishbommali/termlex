@@ -1,0 +1,48 @@
+@import"https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css";
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background-size: cover;
+}
+.p{
+	float: left;
+	font-size: 40px;
+	border-bottom: 3px solid #4caf50;
+	margin-bottom: 50px;
+	padding: 13px 0;
+}
+.text input{
+	border-style:solid;
+	border-radius: 25px;
+	outline: none;
+	background: none;
+	color: black;
+	font-size: 18px;
+	width: 20%;
+	float:left;
+	margin:0 10px;
+}
+.password input{
+	border-style:solid;
+	border-radius: 25px;
+	outline: none;
+	background: none;
+	color: black;
+	font-size: 18px;
+	width: 20%;
+	float:left;
+	margin:0 10px;
+}
+.email input{
+	border-style:solid;
+	border-radius: 25px;
+	outline: none;
+	background: none;
+	color: black;
+	font-size: 18px;
+	width: 20%;
+	float:left;
+	margin:0 10px;
+
+}
