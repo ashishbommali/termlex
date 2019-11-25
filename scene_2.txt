@@ -1,0 +1,38 @@
+What are the advantages of automating software builds? How will you automate build and deployment of a Java web application?
+●What types of testing would you include as part of the automation?
+●How do you approach testing of a web front end?
+
+A)	Build automation is the process of automating the creation of a software build and the associated processes including: 
+  compiling computer source code into binary code, packaging binary code, and running automated tests.
+
+  Advantages:
+  The advantages of build automation to software development projects include
+  A necessary pre-condition for continuous integration and continuous testing
+  Improve product quality
+  Accelerate the compile and link processing
+  Eliminate redundant tasks
+  Minimize "bad builds"
+  Eliminate dependencies on key personnel
+  Have history of builds and releases in order to investigate issues
+  Save time and money - because of the reasons listed above.
+  
+  How to buld and deploy:
+  Create a base test class from which all other tests derive. 
+  It has to be abstract so the automatic unit test collector doesn't try to run it.
+
+  Testing types:
+  Layering test types.
+  Input – output test.
+  UI regression test.
+  Unit test.
+  Integration test.
+  Code analysis.
+  Production logging and monitoring.
+  
+  Testing of a web front end:
+  Frontend Testing is a type of testing that checks the Presentation layer of a 3 Tier Architecture.
+  UI testing.
+  Functional testing.
+  Cross-Browser testing.
+  Presentation Testing.
+  CSS testing.
