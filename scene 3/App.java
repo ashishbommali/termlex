@@ -1,5 +1,8 @@
 package com.noesisinformatica.test;
 
+import java.sql.*;
+import java.io.*;
+
 /**
  * Hello world!
  *
