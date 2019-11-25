@@ -19,6 +19,12 @@ A)	Build automation is the process of automating the creation of a software buil
   How to buld and deploy:
   Create a base test class from which all other tests derive. 
   It has to be abstract so the automatic unit test collector doesn't try to run it.
+  5 simple steps to deploy
+  Step 1: Preparation
+  step 2:Set Up DNS Records
+  step 3:Set Up a Live Testing Site
+  step 4:Set Up Email Accounts
+  step 5:Backup and Go Live
 
   Testing types:
   Layering test types.
